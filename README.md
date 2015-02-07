@@ -1,2 +1,3 @@
-# passport.pub.issues
-This is the public facing issue tracker for passport.pub
+# passport.pub
+
+This only exists so that everyone can add new ideas and report issues involving passport.pub.
